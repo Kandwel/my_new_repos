@@ -18,3 +18,5 @@ git push -u origin main
 Добавили текст через Github.com
 
 Добавили текст через Github.com для проверки commit chenges
+
+Добавили текст локально 
