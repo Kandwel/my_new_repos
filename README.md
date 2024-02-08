@@ -14,3 +14,5 @@ git remote add origin https://github.com/Kandwel/my_new_repos.git
 git branch -M main
 git push -u origin main
 ```
+
+Добавили текст через Github.com
